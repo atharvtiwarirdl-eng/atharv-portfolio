@@ -116,6 +116,23 @@ export const projects = [
     link: 'https://ak-banner-design.vercel.app/',
   },
 
+  {
+id: 'swasth-ai',
+title: 'Swasth AI',
+subtitle: 'AI-Powered Healthcare Management Platform',
+description:
+'A modern healthcare management platform designed to streamline patient records, clinical consultations, medical history, prescriptions and healthcare workflows through a unified digital workspace.',
+tech: [
+'React',
+'TypeScript',
+'AI',
+'Healthcare',
+'Patient Management',
+'Clinical Workspace'
+],
+link: 'https://swasthai-one.vercel.app/',
+},
+
   
 ];
 
